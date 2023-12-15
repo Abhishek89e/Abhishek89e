@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek89e" alt="abhishek89e" /></a> </p>
 
-- 🔭 I’m currently working on **big data house price predicition**
+- 🔭 I’m currently working on **Travel Time Optimization via Ant Colony and Genetic Evolution**
 
 - 🌱 I’m currently learning **data anayltics**
 
